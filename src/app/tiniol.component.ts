@@ -7,5 +7,5 @@ import { Component } from '@angular/core';
   styleUrls: ['tiniol.component.css']
 })
 export class TiniolAppComponent {
-  title = 'tiniol works!';
+  title = 'Olaf Kunkel';
 }
